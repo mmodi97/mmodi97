@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mayank Modi</h1>
-<h3 align="center">I am passionate about technologies I love to learn new things. I love to Research new things and understand How that can be done through Tech.I love to explore technologies for the realtime problems and how I can easily solve the problem statement.</h3>
+<h3 align="center">I am passionate about technologies I love to learn new things. I love to Research new things and understand How anything can be done through Tech.I love to explore technologies for the realtime problems and how I can easily solve the problem statement.</h3>
 
 - 🔭 I’m currently working on **Management Application**
 
